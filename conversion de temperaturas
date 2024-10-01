@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class main
+public class public static void main(String[] args) {
+    Scanner scanner= new scanner(System.in);
+
+    System.out.println("Ingresa la temperatura");
+    double temperatura= scanner.nextdouble(),
+    System.out.println("Elija la conversion:")
+    System.out.println("1:celsius a fahrenheit:");
+    System.out.println("2:fahrenheit a celsius:");
+
+    int opcion= scanner.next.Int();
+    
+
+
+
+
+
+
+}
+    
